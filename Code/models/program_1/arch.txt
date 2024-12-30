@@ -1,0 +1,7 @@
+model name: program_1
+FC        , FC_1           : 1   , 10  , 1   
+ReLU      , ReLU_2         :
+FC        , FC_3           : 10  , 10  , 1   
+ReLU      , ReLU_4         :
+FC        , FC_5           : 10  , 2   , 1   
+Softmax   , Softmax_6      :   -1
